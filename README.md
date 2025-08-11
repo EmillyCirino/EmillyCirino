@@ -11,12 +11,12 @@
 
 ### 🔥 Streak de Contribuições
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&date_format=j%2Fn%5B%2FY%5D&locale=pt_BR" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=EmillyCirino&date_format=j%2Fn%5B%2FY%5D&locale=pt_BR" alt="streak"/>
 </p>
 
 ### 📊 Estatísticas Gerais
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&locale=pt-br" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmillyCirino&show_icons=true&locale=pt-br" alt="stats"/>
 </p>
 
 ### 🧠 Linguagens mais usadas
@@ -43,5 +43,5 @@
 ---
 
 ### 🌐 Onde me encontrar
-- 💼 LinkedIn: https://www.linkedin.com/in/USERNAME
-- 📧 Email: seuemail@exemplo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/EmillyCirino
+- 📧 Email: emillyslima11@gmail.com
